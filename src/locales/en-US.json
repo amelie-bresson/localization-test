@@ -1,12 +1,12 @@
 {
   "account": {
     "navigation": {
-      "account": "My account",
-      "settings": "Settings"
+      "settings": "Settings",
+      "amelie": "Amélie"
     }
   },
   "add_organization_cta": {
-    "button": "Add your company",
+    "button": "Add Amélie company",
     "description": "Create your company profile and start attracting the talent that fit you company culture",
     "title": "Do you want to see your company here?"
   },
