@@ -2,7 +2,8 @@
   "account": {
     "navigation": {
       "account": "Mon compte",
-      "settings": "Paramètres"
+      "settings": "Paramètres",
+      "coucou": "Coucou"
     }
   },
   "add_organization_cta": {

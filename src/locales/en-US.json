@@ -2,7 +2,8 @@
   "account": {
     "navigation": {
       "account": "My account",
-      "settings": "Settings"
+      "settings": "Settings",
+      "coucou": "Hiya"
     }
   },
   "add_organization_cta": {
