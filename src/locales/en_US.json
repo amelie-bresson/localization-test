@@ -3,6 +3,10 @@
     "description": "Add you account here.",
     "title": "Add account"
   },
+  "account-duplicate": {
+    "description": "Duplicate this account.",
+    "title": "Duplicate account"
+  },
   "account": {
     "description": "This is your account.",
     "title": "My account"
@@ -10,9 +14,5 @@
   "account_remove": {
     "description": "Add you account here.",
     "title": "Add account"
-  },
-  "account-duplicate": {
-    "description": "Duplicate this account.",
-    "title": "Duplicate account"
   }
 }
