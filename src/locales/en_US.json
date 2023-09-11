@@ -1,0 +1,14 @@
+{
+  "account": {
+    "title": "My account",
+    "description": "This is your account."
+  },
+  "account-add": {
+    "title": "Add account",
+    "description": "Add you account here."
+  },
+  "account_remove": {
+    "title": "Add account",
+    "description": "Add you account here."
+  }
+}
