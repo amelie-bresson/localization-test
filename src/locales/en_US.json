@@ -11,6 +11,10 @@
     "description": "This is your account.",
     "title": "My account"
   },
+  "account-owner": {
+    "description": "This is your owner.",
+    "title": "My owner"
+  },
   "account_remove": {
     "description": "Add you account here.",
     "title": "Add account"
