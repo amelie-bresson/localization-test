@@ -1,0 +1,22 @@
+{
+  "account-add": {
+    "description": "Ajouter votre compte ici.",
+    "title": "Ajouter un compte"
+  },
+  "account-duplicate": {
+    "description": "Dupliquer ce account.",
+    "title": "Dupliquer compte"
+  },
+  "account": {
+    "description": "Ceci est un compte.",
+    "title": "Mon compte"
+  },
+  "account-owner": {
+    "description": "This is your owner traduit.",
+    "title": "My owner traduit"
+  },
+  "account_remove": {
+    "description": "Ajoutez votre compte ici.",
+    "title": "Add account traduit"
+  }
+}
